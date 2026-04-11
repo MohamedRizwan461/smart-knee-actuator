@@ -127,4 +127,17 @@ Fiber-Reinforced Polymer Composite Prosthetic Foot
 
 ---
 
+---
+
+## Patent Figures
+
+![Figure 1](images/fig_3_1.jpeg)
+![Figure 2](images/fig_3_2.jpeg)
+![Figure 3](images/fig_4_1.jpeg)
+![Figure 4](images/fig_5_1.png)
+![Figure 5](images/fig_7_1.jpeg)
+![Figure 6](images/fig_8_1.jpeg)
+
+---
+
 *Built as part of undergraduate research at KCG College of Technology, Department of Electrical and Electronics Engineering.*
