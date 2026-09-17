@@ -1,6 +1,6 @@
 # Smart Knee Actuator
 
-**Indian Patent No. 202341027059 — Issued October 18, 2024**  
+**Indian Patent Application No. 202341027059 — Published October 2024**  
 KCG College of Technology, Chennai, India
 
 > Wearable pneumatic lower-limb exoskeleton that reads knee load in real time via a MEMS IMU, runs a TinyML gait-phase classifier on an ARM Cortex-M0+ MCU, and actuates a pneumatic cylinder to provide adaptive assistive support — no manual input required.
